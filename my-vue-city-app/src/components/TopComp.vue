@@ -18,6 +18,7 @@
       <!--
         v-on:이벤트명.prevent
         기본기능막기 옵션 .prevent는 event.preventDefault()와 같다!
+        참고) .stop은 stopPropagation()와 같다!
       -->
     </div>
   </header>
