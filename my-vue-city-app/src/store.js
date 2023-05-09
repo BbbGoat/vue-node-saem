@@ -77,7 +77,7 @@ export default new Vuex.Store({
             {...헐.myD0, ...헐.myD1} :
             {...헐.myD0, ...헐.myD2} ;
             
-            console.log("뮤테호출!:",슉,헐.cityData);
+            console.log("뮤테호출!:", 슉, 헐.cityData);
 
             // 메뉴 변경시 인트로화면으로 이동하기
             헐.imgsrc = 헐.cityData.인트로.이미지;
